@@ -1,0 +1,25 @@
+#div {
+    display: flex;
+    flex-direction: column;
+}
+
+#i1 {
+    margin-left: 0px;
+}
+#i2 {
+    margin-left: 100px;
+}
+#i3 {
+    margin-left: 200px;
+}
+
+
+#i4 {
+    margin-left: 200px;
+}
+#i5 {
+    margin-left: 100px;
+}
+#i6 {
+    margin-left: 0px;
+}
